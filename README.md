@@ -5,6 +5,7 @@ This is a repository that contains all of the code for our Xylem weather pattern
 1. Xylem_TemperatureTimeSeriesForecasting: Tensorflow predictions with Jena dataset
 2. xylemweatherNNexperiment: MLPClassifier predictions with Jena dataset
 3. xylemweatherNN: MLPClassifier predictions with London dataset
+4. HumidityPrediction: Matplotlib graph analysis on London dataset
 
 Attached are:
 1. jena_climate_2009_2016: Jena climate dataset from the Max Planck Biogeographical Institute in Jena, Germany (https://www.kaggle.com/datasets/mnassrib/jena-climate)
