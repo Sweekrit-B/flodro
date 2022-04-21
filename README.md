@@ -7,5 +7,5 @@ This is a repository that contains all of the code for our Xylem weather pattern
 3. xylemweatherNN: MLPClassifier predictions with London dataset
 
 Attached are:
-1. jena_climate_2009_2016: Jena climate dataset from the Max Planck Biogeographical Institute in Jena, Germany
+1. jena_climate_2009_2016: Jena climate dataset from the Max Planck Biogeographical Institute in Jena, Germany (https://www.kaggle.com/datasets/mnassrib/jena-climate)
 2. yearly_monthly_averages: London climate dataset
